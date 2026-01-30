@@ -37,6 +37,15 @@ It provides real-time price updates, visual trend indicators, and technical anal
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/demo.png" alt="Lunas Market Dashboard Demo" width="800">
+  <img src="assets/demo1.png" alt="Lunas Market Dashboard Demo" width="800">
+</div>
+
+---
+
 ## 🚀 Installation
 
 ### Prerequisites
@@ -68,7 +77,7 @@ Toggle Favorite (★): Pin an asset to the top of the list.
 Switch Timeframe: Cycle between DAY, WEEK, and MONTH range visualization.
 
 Resume: Go back to the live dashboard.
-
+```
 🛠 Configuration
 The tool automatically creates a market_config.json file on the first run. You can manually edit this file to configure your default watchlist or refresh interval.
 
@@ -84,4 +93,4 @@ This tool is for informational purposes only. It does not constitute financial a
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<div align="center"> Created with 💜 by <b> Gabri2580 & Project Lunas </b> </div>
+<div align="center"> Created with 💜 by <b>Gabri2580 & Project Lunas</b> </div>
